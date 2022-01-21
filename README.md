@@ -7,7 +7,7 @@ Vastly improved telemetry and observability for UniFi networks.
 ## Usage
 
 - Install and configure Docker.
-- Enable port TCP:8085 through firewall, eg `ufw allow 8086/tcp`
+- Enable port TCP:8085 through firewall, eg `ufw allow 8085/tcp`
 - Create a data mount/volume/folder (eg at `/root/unpoller`).
 - Clone this repo and `cd` to the folder you cloned it to.
 - Run `docker-compose up`
