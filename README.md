@@ -21,3 +21,4 @@ Vastly improved telemetry and observability for UniFi networks.
 
 - [UnPoller](https://unpoller.com)
 - [UnPoller: Store UniFi Controller Metrics in Prometheus or InfluxDB ](https://community.ui.com/questions/UnPoller-Store-UniFi-Controller-Metrics-in-Prometheus-or-InfluxDB/58a0ea34-d2b3-41cd-93bb-d95d3896d1a1)
+- [influxunifi: Add support for InfluxDB 2.0 output](https://github.com/unpoller/unpoller/issues/255)
